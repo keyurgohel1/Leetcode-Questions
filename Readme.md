@@ -1,34 +1,62 @@
-# LeetCode & Coding Challenges Solutions 🚀
+<div align="center">
+  <h1>LeetCode & Coding Challenges Solutions 🚀</h1>
+  
+  <p>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+    <a href="https://leetcode.com/NoxAeturna/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+    <a href="https://www.hackerrank.com/work_enma/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  </p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/NoxAeturna/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/work_enma/)
+  <p>A repository containing solutions to coding problems from <b>LeetCode</b>, <b>HackerRank</b> and other platforms. Each solution includes Python, SQL or other relevant files along with video explanations (when available) or notes from me or third-party creators!</p>
+</div>
 
-A repository containing solutions to coding problems from **LeetCode**, **HackerRank** and other platforms. Each solution includes python, sql or any other relevant files and a video explanation (if exist) or notes from me or any 3rd party creator!
+<hr>
 
-## 📋 Table of Contents
-- [Features](#✨-features)
-- [Platforms Covered](#🌐-platforms-covered)
-- [Repository Structure](#📂-repository-structure)
-- [Usage](#💻-usage)
-- [Contributing](#🤝-contributing)
-- [Acknowledgments](#🎉-acknowledgments)
-- [Contact](#📧-contact)
+<details open>
+<summary><h2>📋 Table of Contents</h2></summary>
 
-## Features
-- **Organized Solutions**: Problems categorized by platform, difficulty, and topic.
-- **Multiple Languages**: Solutions provided in Python, SQL and more.
-- **Detailed Explanations**: Step-by-step breakdowns of thought processes and optimizations.
-- **Progress Tracking**: Summary of solved problems by difficulty and platform.
-- **Diverse Problems**: Covers arrays, graphs, dynamic programming, SQL, and more.
+- [✨ Features](#-features)
+- [🌐 Platforms Covered](#-platforms-covered)
+- [📂 Repository Structure](#-repository-structure)
+- [💻 Usage](#-usage)
+- [🤝 Contributing](#-contributing)
+- [🎉 Acknowledgments](#-acknowledgments)
+- [📧 Contact](#-contact)
 
-## Platforms Covered
-- [LeetCode](https://leetcode.com/) 🟡
-- [HackerRank](https://www.hackerrank.com/) 🟢
-- *More platforms added regularly!*
+</details>
 
-## Repository Structure
-```plaintext
+<div style="background-color: #f6f8fa; border-radius: 6px; padding: 16px;">
+  <h2 id="-features">✨ Features</h2>
+  <ul>
+    <li><b>Organized Solutions</b>: Problems categorized by platform, difficulty, and topic.</li>
+    <li><b>Multiple Languages</b>: Solutions provided in Python, SQL and more.</li>
+    <li><b>Detailed Explanations</b>: Step-by-step breakdowns of thought processes and optimizations.</li>
+    <li><b>Progress Tracking</b>: Summary of solved problems by difficulty and platform.</li>
+    <li><b>Diverse Problems</b>: Covers arrays, graphs, dynamic programming, SQL, and more.</li>
+  </ul>
+</div>
+
+<h2 id="-platforms-covered">🌐 Platforms Covered</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-width: 200px;">
+    <a href="https://leetcode.com/" style="text-decoration: none; color: #333;">
+      <h3>LeetCode 🟡</h3>
+    </a>
+  </div>
+  
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-width: 200px;">
+    <a href="https://www.hackerrank.com/" style="text-decoration: none; color: #333;">
+      <h3>HackerRank 🟢</h3>
+    </a>
+  </div>
+</div>
+
+<p><i>More platforms added regularly!</i></p>
+
+<h2 id="-repository-structure">📂 Repository Structure</h2>
+
+<pre style="background-color: #f6f8fa; padding: 16px; border-radius: 6px; overflow: auto;">
 .
 ├── LeetCode/
 │   ├── Easy/
@@ -42,41 +70,67 @@ A repository containing solutions to coding problems from **LeetCode**, **Hacker
 │   └── Algorithms/
 ├── CodeSignal/
 └── ...
-```
-- Each problem has its own folder containing:
+</pre>
 
-        Solution code in one or more languages.
+<p>Each problem has its own folder containing:</p>
+<ul>
+  <li>Solution code in one or more languages</li>
+  <li>A README.md with problem description, approach, and complexity analysis</li>
+</ul>
 
-        A README.md with problem description, approach, and complexity analysis.
-## Usage
-- **Clone the repository**
-```
-git clone https://github.com/keyurgohel1/Leetcode-Questions.git
-```
-- **Navigate to the problem directory**
-- **Run the code locally (ensure required compilers/runtimes are installed)**
+<h2 id="-usage">💻 Usage</h2>
 
-## Contributing
-**Contributions are welcome! Follow these steps:**
-1. Fork the repository.
+<ol>
+  <li><b>Clone the repository</b>
+    <pre style="background-color: #f6f8fa; padding: 12px; border-radius: 6px;"><code>git clone https://github.com/keyurgohel1/Leetcode-Questions.git</code></pre>
+  </li>
+  <li><b>Navigate to the problem directory</b></li>
+  <li><b>Run the code locally</b> (ensure required compilers/runtimes are installed)</li>
+</ol>
 
-2. Create a branch: git checkout -b feat/your-feature.
+<h2 id="-contributing">🤝 Contributing</h2>
 
-3. Commit changes: git commit -m 'Add solution for XYZ problem'.
+<div style="background-color: #f6f8fa; border-radius: 6px; padding: 16px;">
+  <p>Contributions are welcome! Follow these steps:</p>
+  
+  <ol>
+    <li>Fork the repository</li>
+    <li>Create a branch: <code>git checkout -b feat/your-feature</code></li>
+    <li>Commit changes: <code>git commit -m 'Add solution for XYZ problem'</code></li>
+    <li>Push to the branch: <code>git push origin feat/your-feature</code></li>
+    <li>Open a Pull Request</li>
+  </ol>
+</div>
 
-4. Push to the branch: git push origin feat/your-feature.
+<h2 id="-acknowledgments">🎉 Acknowledgments</h2>
 
-5. Open a Pull Request.
+<ul>
+  <li>Thanks to LeetCode, HackerRank for providing great practice platforms</li>
+  <li>Inspired by the open-source community</li>
+  <li>Video/Notes links to solutions are provided in each problem directory</li>
+</ul>
 
-## Acknowledgments
-- **Thanks to LeetCode, HackerRank for providing great practice platforms.**
-- **Inspired by the open-source community.**
-- **Video/Notes Links to the solutions are provided in the problem directory itself.**
+<h2 id="-contact">📧 Contact</h2>
 
-## Contact
-- **Email**: 📧 [kgohel.connect@gmail.com](mailto:kgohel.connect@gmail.com)
-- **Github**: https://github.com/keyurgohel1
-- **LinkedIn**: www.linkedin.com/in/keyur2103
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-width: 200px;">
+    <h3>Email</h3>
+    <p><a href="mailto:kgohel.connect@gmail.com">kgohel.connect@gmail.com</a></p>
+  </div>
+  
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-width: 200px;">
+    <h3>GitHub</h3>
+    <p><a href="https://github.com/keyurgohel1">keyurgohel1</a></p>
+  </div>
+  
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-width: 200px;">
+    <h3>LinkedIn</h3>
+    <p><a href="https://www.linkedin.com/in/keyur2103">keyur2103</a></p>
+  </div>
+</div>
 
----
-### Happy Coding! 👨💻👩💻
+<hr>
+
+<div align="center">
+  <h3>Happy Coding! 👨‍💻👩‍💻</h3>
+</div>
