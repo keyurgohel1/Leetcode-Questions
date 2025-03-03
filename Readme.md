@@ -15,19 +15,19 @@ A repository containing solutions to coding problems from **LeetCode**, **Hacker
 - [Acknowledgments](#🎉-acknowledgments)
 - [Contact](#📧-contact)
 
-## ✨-features
+## Features
 - **Organized Solutions**: Problems categorized by platform, difficulty, and topic.
 - **Multiple Languages**: Solutions provided in Python, SQL and more.
 - **Detailed Explanations**: Step-by-step breakdowns of thought processes and optimizations.
 - **Progress Tracking**: Summary of solved problems by difficulty and platform.
 - **Diverse Problems**: Covers arrays, graphs, dynamic programming, SQL, and more.
 
-## 🌐-platforms-covered
+## Platforms Covered
 - [LeetCode](https://leetcode.com/) 🟡
 - [HackerRank](https://www.hackerrank.com/) 🟢
 - *More platforms added regularly!*
 
-## 📂-repository-structure
+## Repository Structure
 ```plaintext
 .
 ├── LeetCode/
@@ -48,7 +48,7 @@ A repository containing solutions to coding problems from **LeetCode**, **Hacker
         Solution code in one or more languages.
 
         A README.md with problem description, approach, and complexity analysis.
-## 💻-usage
+## Usage
 - **Clone the repository**
 ```
 git clone https://github.com/keyurgohel1/Leetcode-Questions.git
@@ -56,7 +56,7 @@ git clone https://github.com/keyurgohel1/Leetcode-Questions.git
 - **Navigate to the problem directory**
 - **Run the code locally (ensure required compilers/runtimes are installed)**
 
-## 🤝-contributing
+## Contributing
 **Contributions are welcome! Follow these steps:**
 1. Fork the repository.
 
@@ -68,12 +68,12 @@ git clone https://github.com/keyurgohel1/Leetcode-Questions.git
 
 5. Open a Pull Request.
 
-## 🎉-acknowledgments
+## Acknowledgments
 - **Thanks to LeetCode, HackerRank for providing great practice platforms.**
 - **Inspired by the open-source community.**
 - **Video/Notes Links to the solutions are provided in the problem directory itself.**
 
-## 📧-contact
+## Contact
 - **Email**: 📧 [kgohel.connect@gmail.com](mailto:kgohel.connect@gmail.com)
 - **Github**: https://github.com/keyurgohel1
 - **LinkedIn**: www.linkedin.com/in/keyur2103
